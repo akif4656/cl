@@ -1,0 +1,56 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+h1{
+    text-align: center;
+
+    
+}
+.cl-body{
+    background-color:white;
+   
+    
+}
+.card{
+    
+    max-width: 350px;
+    text-align: center;
+    margin: 0 auto;
+    box-shadow: 0 4px 8px 0 black;
+    font-size: 0;
+    margin-top: 10px;
+    background-color: white;
+
+}
+.result{
+    height: 100px;
+    width: 335px;
+    text-align: right;
+    font-size: 30px;
+    padding: 0 5px;
+    letter-spacing: 2px;
+    font-weight: bold;
+}
+.but1{
+width:85px;
+height: 70px;
+border: none;
+background-color: black;
+margin:1px;
+font-size: 16px;
+font-style: bold;
+color: white;
+}
+.card:hover{
+  box-shadow: 0 16px 32px 0 black;
+}
+.but12{
+    background-color: blue;
+}
+.but1:hover{
+    background-color:yellow;
+}
+.hv2:hover{ 
+background-color: yellow;
+}
